@@ -1,0 +1,22 @@
+{
+  "name": "soundscape",
+  "version": "0.0.0",
+  "homepage": "https://github.com/srmullen/soundscape",
+  "authors": [
+    "Sean Mullen <srmullen13@gmail.com>"
+  ],
+  "moduleType": [
+    "es6"
+  ],
+  "license": "Sean Mullen",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "flocking": "~0.1.3"
+  }
+}
